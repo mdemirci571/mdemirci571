@@ -10,7 +10,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ## Socials:
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-demirci) 
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-demirci) 
 
 ![Adsız](https://user-images.githubusercontent.com/118989410/205894833-0aa28f7d-474e-4eca-82e1-397132d94e89.jpg)
 
@@ -24,4 +24,5 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemirci571&count_private=true&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 <p align="center">
-![ReadMe Cards](https://github-readme-stats.vercel.app/api/pin/?username=mdemirci571&repo=github-readme-stats)
+
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mdemirci571&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
