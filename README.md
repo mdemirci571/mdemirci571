@@ -14,12 +14,14 @@ You can click the Preview link to take a look at your changes.
 
 ![Adsız](https://user-images.githubusercontent.com/118989410/205894833-0aa28f7d-474e-4eca-82e1-397132d94e89.jpg)
 
-
+## Languages:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdemirci571)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📈 Statistics
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mdemirci571&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdemirci571&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemirci571&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+<img src="https://github-readme-stats.vercel.app/api?username=mdemirci571&count_private=true&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdemirci571&count_private=true&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemirci571&count_private=true&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 <p align="center">
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mdemirci571&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
