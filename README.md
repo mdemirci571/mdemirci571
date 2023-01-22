@@ -14,3 +14,11 @@ You can click the Preview link to take a look at your changes.
 
  ## 📈 Statistics
 [![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mdemirci571)](https://github.com/mdemirci571/github-readme-stats)
+
+## 📈 Statistics
+<p align="left">
+<img src="https://github-readme-stats.vercel.app/api?username=mdemirci571&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdemirci571&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemirci571&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
+<p align="center">
