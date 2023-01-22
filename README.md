@@ -25,4 +25,4 @@ You can click the Preview link to take a look at your changes.
 
 <p align="center">
 
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mdemirci571&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mdemirci571&repo=github-readme-stats)](https://github.com/mdemirci571/github-readme-stats)
