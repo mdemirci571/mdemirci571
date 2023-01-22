@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 ![Adsız](https://user-images.githubusercontent.com/118989410/205894833-0aa28f7d-474e-4eca-82e1-397132d94e89.jpg)
 
 ## Languages:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdemirci571&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdemirci571&langs_count=8)]
 
 ## 📈 Statistics
 <p align="left">
@@ -24,4 +24,4 @@ You can click the Preview link to take a look at your changes.
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemirci571&count_private=true&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 <p align="center">
-[![ReadMe Kartı](https://github-readme-stats.vercel.app/api/pin/?username=mdemirci571&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Cards](https://github-readme-stats.vercel.app/api/pin/?username=mdemirci571&repo=github-readme-stats)]
