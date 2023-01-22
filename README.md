@@ -14,8 +14,10 @@ You can click the Preview link to take a look at your changes.
 
 ![Adsız](https://user-images.githubusercontent.com/118989410/205894833-0aa28f7d-474e-4eca-82e1-397132d94e89.jpg)
 
-## Languages:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdemirci571&langs_count=8)
+## Languages & Tools:
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 
 ## 📈 Statistics
 <p align="left">
