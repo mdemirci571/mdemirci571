@@ -9,11 +9,12 @@ mdemirci571/mdemirci571 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
+## Socials:
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-demirci) 
 
-![Adsız](https://user-images.githubusercontent.com/118989410/205894833-0aa28f7d-474e-4eca-82e1-397132d94e89.jpg)
+![Adsız](https://user-images.githubusercontent.com/118989410/205894833-0aa28f7d-474e-4eca-82e1-397132d94e89.jpg width=20%)
 
- ## 📈 Statistics
-[![Anurag'nın GitHub İstatistikleri](https://github-readme-stats.vercel.app/api?username=mdemirci571)](https://github.com/mdemirci571/github-readme-stats)
+
 
 ## 📈 Statistics
 <p align="left">
