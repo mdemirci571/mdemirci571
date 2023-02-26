@@ -39,4 +39,4 @@ You can click the Preview link to take a look at your changes.
 <h2 align="center"> My projects</h2>
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[iphone-calculator](https://user-images.githubusercontent.com/109351417/205138112-1673da2d-8edc-403a-ba8c-404f0eb1a347.gif)<h3>[Repo](https://github.com/Ilknurtuncer/iphone-calculator)</h3> | HTML, CSS |  ![Animation](https://user-images.githubusercontent.com/118935193/211205933-ad1a8159-4aa3-4717-b7d8-5379f42aacaa.gif)
+[calculator]<h3>[Repo](https://github.com/mdemirci571/calculator)</h3> | HTML, CSS, JS |  ![Animation](https://github.com/mdemirci571/calculator/blob/main/animation.gif)
