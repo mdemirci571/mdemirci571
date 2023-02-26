@@ -44,4 +44,4 @@ You can click the Preview link to take a look at your changes.
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
-[calculator]<h3>[Repo](https://github.com/mdemirci571/calculator)</h3> | HTML, CSS, JS |  ![Animation](https://github.com/mdemirci571/calculator/blob/main/animation.gif)
+CALCULATOR<h3>[Repo](https://github.com/mdemirci571/calculator)</h3> | HTML, CSS, JS |  ![Animation](https://github.com/mdemirci571/calculator/blob/main/animation.gif)
