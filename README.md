@@ -44,4 +44,15 @@ You can click the Preview link to take a look at your changes.
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+●	FIFA World Cup-22<h3>[Repo](https://github.com/mdemirci571/Fifa_World_Cup-22)</h3> | HTML, CSS, JS-REACT |  ![Animation](https://github.com/mdemirci571/Fifa_World_Cup-22/blob/main/src/assets/animation.gif)
+
+●	Horoscope<h3>[Repo](https://github.com/mdemirci571/Horoscope)</h3> | HTML, SASS, JS-REACT |  ![Animation](https://github.com/mdemirci571/Horoscope/blob/main/src/helpers/animation.gif)
+
+●	Weather App<h3>[Repo](https://github.com/mdemirci571/weather_App)</h3> | HTML, CSS, JS-REACT |  ![Animation](https://github.com/mdemirci571/weather_App/blob/main/img/animation.gif)
+
+●	Checkout Page<h3>[Repo](https://github.com/mdemirci571/checkout_page)</h3> | HTML, CSS, JS |  ![Animation](https://github.com/mdemirci571/checkout_page/blob/main/img/animation.gif)
+
+●	Parallax-Avatar <h3>[Repo](https://github.com/mdemirci571/checkout_page)</h3> | HTML, CSS, JS |  ![Animation](https://github.com/mdemirci571/checkout_page/blob/main/img/animation.gif)
+
+
 CALCULATOR<h3>[Repo](https://github.com/mdemirci571/calculator)</h3> | HTML, CSS, JS |  ![Animation](https://github.com/mdemirci571/calculator/blob/main/animation.gif)
