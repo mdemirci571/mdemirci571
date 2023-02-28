@@ -1,5 +1,5 @@
 - Hi, I’m @mdemirci571(Muhammed Demirci)
-- I’m interested in İT( :computer: Full Stack Development)
+- I’m frontEnd developer.
 - I am currently improving myself in Html5, Css3, JavaScript, TypeScript, React, BootStrap, SASS, Postman, Computational-Thinking, Git/GitHub, Agile, Jira ...
 - I’m looking to collaborate on IT with everyone.
 - How to reach me; <br> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdemirci571@gmail.com) &emsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-demirci)&emsp;
@@ -7,6 +7,7 @@
 
 <p align="right"><img src="https://user-images.githubusercontent.com/118989410/205894833-0aa28f7d-474e-4eca-82e1-397132d94e89.jpg" width="50% heigth="40%"></p>
 <hr>
+
 ## Languages & Tools:
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -17,6 +18,7 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+
 
 ## 📈 Statistics
 
