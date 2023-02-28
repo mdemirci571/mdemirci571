@@ -9,11 +9,11 @@ mdemirci571/mdemirci571 is a ✨ special ✨ repository because its `README.md` 
 You can click the Preview link to take a look at your changes.
 --->
 
-## Portfolio: https://mdemirci571.github.io/portfolio/
+![Portfolio:](https://mdemirci571.github.io/portfolio/)
 
-## Socials:
+## Socials: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-demirci)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-demirci)
+
 
 <p align="right"><img src="https://user-images.githubusercontent.com/118989410/205894833-0aa28f7d-474e-4eca-82e1-397132d94e89.jpg" width="60% heigth="40%"></p>
 
@@ -31,20 +31,19 @@ You can click the Preview link to take a look at your changes.
 ## 📈 Statistics
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=mdemirci571&count_private=true&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=mdemirci571&count_private=true&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-stats.vercel.app/api?username=mdemirci571&count_private=true&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;</p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemirci571&count_private=true&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 <p align="center">
 <hr><br>
-<h2 align="center"> My projects</h2>
+<h2 align="center"> My Projects</h2>
 
 ###
 
 
 
-Project Demo       |Libraries and Technologies I use     |Project Preview   
+Project Demo       |Libraries and Technologies I use     |Project Preview(Live Page)   
 :-------------------------|-------------------------|-------------------------
-●	FIFA World Cup-22<h3>[Live Page:](https://github.com/mdemirci571/Fifa_World_Cup-22)</h3> | HTML, CSS, JS-REACT |  ![Animation](https://github.com/mdemirci571/Fifa_World_Cup-22/blob/main/src/assets/animation.gif)
+●	FIFA World Cup-22<h3>[Live Page:](https://fifaworldcup-22.netlify.app/)</h3> | HTML, CSS, JS-REACT |  ![Animation](https://github.com/mdemirci571/Fifa_World_Cup-22/blob/main/src/assets/animation.gif)
 ●	Horoscope<h3>[Live Page:](https://github.com/mdemirci571/Horoscope)</h3> | HTML, SASS, JS-REACT |  ![Animation](https://github.com/mdemirci571/Horoscope/blob/main/src/helpers/animation.gif)
 ●	Weather App<h3>[Live Page:]( https://mdemirci571.github.io/weather_App/)</h3> | HTML, CSS, JS-REACT |  ![Animation](https://github.com/mdemirci571/weather_App/blob/main/img/animation.gif)
 ●	Checkout Page<h3>[Live Page:](https://mdemirci571.github.io/checkout_page/)</h3> | HTML, CSS, JS |  ![Animation](https://github.com/mdemirci571/checkout_page/blob/main/img/animation.gif)
