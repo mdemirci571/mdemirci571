@@ -2,16 +2,13 @@
 - 👀 I’m interested in İT( :computer: Full Stack Development)
 - :technologist: I am currently improving myself in Html5, Css3, JavaScript, TypeScript, React, BootStrap, SASS, Postman, Computational-Thinking, Git/GitHub, Agile, Jira ...
 - 💞️ I’m looking to collaborate on IT with everyone. :computer:
-- 📫 How to reach me; [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdemirci571@gmail.com) &emsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-demirci)&emsp;
+- 📫 How to reach me; <br> [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdemirci571@gmail.com) &emsp;[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-demirci)&emsp;
 - 😄 Pronouns: We only...
 <!---
 mdemirci571/mdemirci571 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 
-## Portfolio: https://mdemirci571.github.io/portfolio/
-
-## Socials: [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-demirci)
 
 
 
