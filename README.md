@@ -35,7 +35,7 @@
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
 ●	FIFA World Cup-22<h3>[Live Page:](https://fifaworldcup-22.netlify.app/)</h3> | HTML, CSS, JS-REACT |  ![Animation](https://github.com/mdemirci571/Fifa_World_Cup-22/blob/main/src/assets/animation.gif)
-●	Horoscope<h3>[Live Page:](https://horoscope-22.netlify.app/)</h3> | HTML, SASS, JS-REACT |  ![Animation](https://github.com/mdemirci571/Horoscope/blob/main/src/helpers/animation.gif)
+●	Horoscope<h3>[Live Page:](https://horoscope-react.netlify.app/)</h3> | HTML, SASS, JS-REACT |  ![Animation](https://github.com/mdemirci571/Horoscope/blob/main/src/helpers/animation.gif)
 ●	Weather App<h3>[Live Page:]( https://mdemirci571.github.io/weather_App/)</h3> | HTML, CSS, JS-REACT |  ![Animation](https://github.com/mdemirci571/weather_App/blob/main/img/animation.gif)
 ●	Checkout Page<h3>[Live Page:](https://mdemirci571.github.io/checkout_page/)</h3> | HTML, CSS, JS |  ![Animation](https://github.com/mdemirci571/checkout_page/blob/main/img/animation.gif)
 ●	Parallax-Avatar <h3>[Live Page:]( https://mdemirci571.github.io/parallax_avatar/)</h3> | HTML, CSS, JS |  ![Animation](https://github.com/mdemirci571/parallax_avatar/blob/main/img/animation.gif)
