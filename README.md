@@ -3,7 +3,7 @@
 - I am currently improving myself in Html5, Css3, JavaScript, TypeScript, React, BootStrap, SASS, CRUD, Computational-Thinking, Git/GitHub, Agile, Jira ...
 - I’m looking to collaborate on IT with everyone.
 - How to reach me; <br> 
-[![Bio](https://img.shields.io/badge/BIO-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)](https://mdemirci571.github.io/portfolio/)&emsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdemirci571@gmail.com)&emsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-demirci)&emsp;
+[![Bio](https://img.shields.io/badge/BIO-000000%7D?style=for-the-badge&logo=bio&logoColor=white)](https://mdemirci571.github.io/portfolio/)&emsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdemirci571@gmail.com)&emsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammed-demirci)&emsp;
 
 [LinkedIn Commentary:](https://www.linkedin.com/posts/clarusway_codingbootcamp-careerdevelopment-professionaladvancement-activity-7026565031219671041-X25V?utm_source=share&utm_medium=member_desktop)
 <hr>
