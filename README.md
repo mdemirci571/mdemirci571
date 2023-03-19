@@ -37,6 +37,7 @@
 
 Project Demo       |Libraries and Technologies I use     |Project Preview   
 :-------------------------|-------------------------|-------------------------
+●	Movie-App23<h3>[Live Page:](https://movie-app23.netlify.app/)</h3> | HTML, Tailwind, JS-REACT(Router, ContextApi, Firebase, TMDB_Api) |  ![Animation](https://github.com/mdemirci571/movie-app23/blob/main/movie-app.gif)
 ●	FIFA World Cup-22<h3>[Live Page:](https://fifaworldcup-22.netlify.app/)</h3> | HTML, CSS, JS-REACT |  ![Animation](https://github.com/mdemirci571/Fifa_World_Cup-22/blob/main/src/assets/animation.gif)
 ●	Horoscope<h3>[Live Page:](https://horoscope-react.netlify.app/)</h3> | HTML, SASS, JS-REACT |  ![Animation](https://github.com/mdemirci571/Horoscope/blob/main/src/helpers/animation.gif)
 ●	Weather App<h3>[Live Page:]( https://mdemirci571.github.io/weather_App/)</h3> | HTML, CSS, JS-REACT |  ![Animation](https://github.com/mdemirci571/weather_App/blob/main/img/animation.gif)
