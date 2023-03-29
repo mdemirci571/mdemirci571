@@ -1,5 +1,4 @@
-- Hi, I’m @mdemirci571(Muhammed Demirci)
-- I’m frontEnd developer.
+- I’m FrontEnd developer.
 - I am currently improving myself in Html5, Css3, JavaScript, TypeScript, React, BootStrap, SASS, CRUD, Computational-Thinking, Git/GitHub, Agile, Jira ...
 - I’m looking to collaborate on IT with everyone.
 - How to reach me; <br> 
@@ -13,29 +12,21 @@
 
 ## Languages & Tools:
 
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-
-
-## 📈 Statistics
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=mdemirci571&count_private=true&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;</p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdemirci571&count_private=true&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+![GitHub](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
 <hr>
-<h2 align="center"> My Projects</h2>
-
+## My Projects:
+  
 ###
 
 
-
-Project Demo       |Libraries and Technologies I use     |Project Preview   
+Project Demo         |Libraries and Technologies I use       |Project Preview   
 :-------------------------|-------------------------|-------------------------
 ●	Movie-App23<h3>[Live Page:](https://movie-app23.netlify.app/)</h3> | HTML, Tailwind, JS-REACT(Router, ContextApi, Firebase, TMDB_Api) |  ![Animation](https://github.com/mdemirci571/movie-app23/blob/main/movie-app.gif)
 ●	FIFA World Cup-22<h3>[Live Page:](https://fifaworldcup-22.netlify.app/)</h3> | HTML, CSS, JS-REACT |  ![Animation](https://github.com/mdemirci571/Fifa_World_Cup-22/blob/main/src/assets/animation.gif)
