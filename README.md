@@ -1,4 +1,4 @@
-- I’m FrontEnd developer.
+- I’m FrontEnd development trainee.
 - I am currently improving myself in Html5, Css3, JavaScript, TypeScript, React, BootStrap, SASS, CRUD, Computational-Thinking, Git/GitHub, Agile, Jira ...
 - I’m looking to collaborate on IT with everyone.
 - How to reach me; <br> 
