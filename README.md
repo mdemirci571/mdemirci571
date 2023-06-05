@@ -1,5 +1,6 @@
-- I’m FrontEnd development trainee and Backend development student.
+- I’m FrontEnd developer and Backend development student.
 - I am currently improving myself in Html5, CSS3, JavaScript, React, Redux, Materiel UI, TypeScript, CRUD, BootStrap, SASS, Tailwind, Linux, Computational-Thinking, Git/GitHub, Agile, Jira ...
+- Also, I am currently developing myself on Python, Django and Docker on the Backend side.
 - I’m looking to collaborate on IT with everyone.
 - How to reach me; <br> 
 [![Bio](https://img.shields.io/badge/BIO-000000%7D?style=for-the-badge&logo=bio&logoColor=white)](https://mdemirci571.github.io/portfolio/)&emsp; [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhdemirci571@gmail.com)&emsp; [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-maximilian-demirci)&emsp;
